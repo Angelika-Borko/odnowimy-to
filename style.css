@@ -1,0 +1,52 @@
+.body {
+background-image: url(background.jpg);
+background-position: top left;
+background-attachment: scroll;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.main {
+    background-color: rgba(255, 255, 255, 0.3);
+    max-width: 1000px;
+    min-height: 900px;
+    margin: auto;
+    text-align: center;
+  }
+
+.logo {
+    border-radius: 50%;
+    max-width: 20%;
+    max-height: 20%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.h1 {
+    color: black;
+    padding-bottom: 10px;
+    font-size: 45px;
+}
+
+.h2 {
+    color: black;
+    padding-bottom: 15px;
+}
+
+.link {
+    color: lightseagreen;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.footer {
+    color: white;
+    font-size: smaller;
+    max-width: 1000px;
+    margin: auto;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.3);
+    max-width: 1000px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
